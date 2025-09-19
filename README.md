@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👩🏻‍💻 Software Developer sharing about my journey and learnings in tech<br>🟠 Junior Flutter developer<br>📱 Building cross-platform magic with the power of Flutter<br>💭  Currently learning about mobile software development!</p>
+<p align="left">👨🏻‍💻 Software Developer sharing about my journey and learnings in tech<br>🟠 Junior Flutter developer<br>📱 Building cross-platform magic with the power of Flutter<br>💭  Currently learning about mobile software development!</p>
 
 ###
 
